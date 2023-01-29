@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures":
+  {
+    "layer0" : "epicfight:item/witcher_hat_1"
+  }
+}

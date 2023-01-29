@@ -1,0 +1,18 @@
+version 1.5
+    added spellcasting animation for player and wizards
+version 1.6
+    added air attack animations
+version 1.7
+    added stamina for skills
+version 1.8
+    added guard skill
+version 1.9
+    fixed spellcasting for player, added skills for knuckle, dagger(1), longsword
+version 2.0
+    added piglin model, added capabilities for BOSSES from mutantbeasts and mowziesmobs
+version 2.1
+    fixed hat rendering, wizard robe rendering, fixed wizards textures, added hair, added ParryAI, added beard as item and for wizards
+version 2.2
+    added vampire cap, added capes, finished hunters cap, ghost cap added, added прозрачная rendering
+version 2.3
+    added orc model!!, added CustomEntityConfig, added StepBackSkill

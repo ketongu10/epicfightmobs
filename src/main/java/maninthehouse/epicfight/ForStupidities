@@ -1,0 +1,28 @@
+Кастомные размеры в LivingData:getModelMatrix()
+
+if problems with mount:
+    at maninthehouse.epicfight.events.EntityEvents.mountEvent(EntityEvents.java:344)
+
+
+to do:
+1) repair AW traders collapsing after hit
+2) repair damage from faction-guided balistas
+3) mounted npc change AI after dismounting  --DONE
+4) EW swings and wizard motions --DONE
+    4.1) EW textures and beards
+    4.2) FrendlyWizard crash when entity hit by that wizard:
+        this is because of attack animation! change to smth else:  --DONE
+    4.3) dispenser crushed in onCastEvent() --DONE
+5) expand animations
+6) witchers
+7) vampires
+8) LONGSWORD render --DONE
+9) true magic as skill: double 1-5 casts spell
+
+
+
+
+
+
+magic:
+1) change textures after petrify

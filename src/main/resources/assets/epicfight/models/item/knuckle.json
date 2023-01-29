@@ -1,0 +1,19 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "epicfight:item/knuckle"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -88, 119],
+			"translation": [0, -1, -0.5],
+			"scale": [0.35, 0.35, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 88, -119],
+			"translation": [0, -1, -0.5],
+			"scale": [0.35, 0.35, 0.6]
+		}
+	}
+}
